@@ -7,7 +7,7 @@ N = 25
 res = ''.join(random.choices(string.ascii_uppercase +
                              string.digits, k = N))
 b = str(res)
-if A == ("277"):
-    print('OKAY GOOD. TAKE THIS TOKEN AND  :', b)
+if A == "277":
+    print('OKAY GOOD. TAKE THIS TOKEN AND DM IT US ON OUR OFFICIAL INSTAGRAM ACCOUNT:', b)
 else:
     print('ughh ohh! wrong code')
